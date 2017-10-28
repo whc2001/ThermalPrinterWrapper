@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermalPrinterWrapper", "ThermalPrinterWrapper\ThermalPrinterWrapper.csproj", "{154C4847-B764-4D73-843A-D68D20C6C23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154C4847-B764-4D73-843A-D68D20C6C23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154C4847-B764-4D73-843A-D68D20C6C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154C4847-B764-4D73-843A-D68D20C6C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154C4847-B764-4D73-843A-D68D20C6C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393DF9A1-5C20-43AE-992B-21EF441452C6}
+	EndGlobalSection
+EndGlobal
